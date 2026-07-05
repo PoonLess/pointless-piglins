@@ -1,6 +1,0 @@
-{
-    "gamerule.pointlessPiglins": "Disable golden spears on natural zombified piglin spawn",
-    "gamerule.pointlessPiglins.description": "When true, zombified piglins that spawn naturally will not hold golden spears. Use /gamerule pointlessPiglins false to allow vanilla behavior.",
-    "modmenu.nameTranslation.pointless-piglins": "Pointless Piglins",
-    "modmenu.descriptionTranslation.pointless-piglins": "Prevents zombified piglins from naturally spawning with golden spears that destroy gold farms."
-}

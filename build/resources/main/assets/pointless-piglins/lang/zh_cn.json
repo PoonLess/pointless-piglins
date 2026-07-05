@@ -1,6 +1,0 @@
-{
-    "gamerule.pointlessPiglins": "禁止僵尸猪灵自然生成携带金矛",
-    "gamerule.pointlessPiglins.description": "启用时，自然生成的僵尸猪灵不会携带金矛。使用 /gamerule pointlessPiglins false 恢复原版行为。",
-    "modmenu.nameTranslation.pointless-piglins": "无意义猪灵",
-    "modmenu.descriptionTranslation.pointless-piglins": "防止僵尸猪灵自然生成时携带金矛，保护你的猪人塔效率。"
-}
