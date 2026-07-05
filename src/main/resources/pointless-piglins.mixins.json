@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.spoonless.pointlesspiglins.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "ZombifiedPiglinEntityMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

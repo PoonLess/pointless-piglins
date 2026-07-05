@@ -1,0 +1,28 @@
+{
+    "schemaVersion": 1,
+    "id": "pointless-piglins",
+    "version": "1.0.0",
+    "name": "Pointless Piglins",
+    "description": "Stop piglins from spawning with golden spears and ruining your gold farm.",
+    "authors": [
+        "spoonless"
+    ],
+    "contact": {},
+    "license": "MIT",
+    "icon": "assets/pointless-piglins/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.spoonless.pointlesspiglins.PointlessPiglins"
+        ]
+    },
+    "mixins": [
+        "pointless-piglins.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.15.0",
+        "minecraft": ">=26.1.2",
+        "fabric-api": "*",
+        "java": ">=21"
+    }
+}
