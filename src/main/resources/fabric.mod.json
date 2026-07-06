@@ -5,7 +5,7 @@
     "name": "Pointless Piglins",
     "description": "Stop piglins from spawning with golden spears and ruining your gold farm.",
     "authors": [
-        "spoonless"
+        "xerax"
     ],
     "contact": {},
     "license": "MIT",
@@ -13,7 +13,7 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.spoonless.pointlesspiglins.PointlessPiglins"
+            "com.xerax.pointlesspiglins.PointlessPiglins"
         ]
     },
     "mixins": [

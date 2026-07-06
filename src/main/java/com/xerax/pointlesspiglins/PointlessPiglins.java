@@ -1,4 +1,4 @@
-package com.spoonless.pointlesspiglins;
+package com.xerax.pointlesspiglins;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.gamerule.v1.GameRuleBuilder;

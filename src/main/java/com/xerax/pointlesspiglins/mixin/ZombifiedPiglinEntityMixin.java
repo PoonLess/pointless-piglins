@@ -1,6 +1,6 @@
-package com.spoonless.pointlesspiglins.mixin;
+package com.xerax.pointlesspiglins.mixin;
 
-import com.spoonless.pointlesspiglins.PointlessPiglins;
+import com.xerax.pointlesspiglins.PointlessPiglins;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.DifficultyInstance;
 import net.minecraft.world.entity.monster.zombie.ZombifiedPiglin;
