@@ -5,3 +5,6 @@ build/
 .idea/
 *.jar
 !gradle/wrapper/gradle-wrapper.jar
+
+# Development logs (local notes)
+开发日志/
